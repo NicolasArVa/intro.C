@@ -1,2 +1,0 @@
-
-    printf("%lf\n", x);
